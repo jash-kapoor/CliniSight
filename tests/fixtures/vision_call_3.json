@@ -1,0 +1,32 @@
+[
+  {
+    "label": "Serum Creatinine",
+    "value": "0.94",
+    "ref": "0.6 - 1.4 mg/dL"
+  },
+  {
+    "label": "Serum Sodium (Na)",
+    "value": "139.20",
+    "ref": "135 - 145 mEq/L"
+  },
+  {
+    "label": "Serum Potassium (K)",
+    "value": "3.81",
+    "ref": "3.5 - 5.5 mEq/L"
+  },
+  {
+    "label": "Serum Chloride (Cl)",
+    "value": "99.30",
+    "ref": "96 - 106 mEq/L"
+  },
+  {
+    "label": "SGPT",
+    "value": "18.8",
+    "ref": "10 - 40 IU/L"
+  },
+  {
+    "label": "S.CRP (C-Reactive Protein)",
+    "value": "4.02",
+    "ref": "0 - 06 mg/L"
+  }
+]

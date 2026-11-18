@@ -1,0 +1,112 @@
+[
+  {
+    "label": "Hemoglobin",
+    "value": "13.40",
+    "ref": "13.5 - 17.0 gm%"
+  },
+  {
+    "label": "Total RBC Count",
+    "value": "5.02",
+    "ref": "4.6 - 6.2 mill/cmm"
+  },
+  {
+    "label": "Packed Cell Volume(PCV)",
+    "value": "38.50",
+    "ref": "40 - 54 %"
+  },
+  {
+    "label": "Mean Corpuscular Volume(MCV)",
+    "value": "76.69",
+    "ref": "80 - 96 fL"
+  },
+  {
+    "label": "MCH (Calculated)",
+    "value": "26.69",
+    "ref": "27 - 31 pg"
+  },
+  {
+    "label": "MCHC (Calculated)",
+    "value": "34.81",
+    "ref": "32 - 36 %"
+  },
+  {
+    "label": "RDW",
+    "value": "10.80",
+    "ref": "10 - 15 %"
+  },
+  {
+    "label": "Total WBC Count",
+    "value": "6,000",
+    "ref": "4,000 - 11,000/cmm"
+  },
+  {
+    "label": "MPV",
+    "value": "9.4",
+    "ref": "7.00 - 11.00 fL"
+  },
+  {
+    "label": "Band Cells",
+    "value": "00",
+    "ref": "00 - 06 %"
+  },
+  {
+    "label": "Neutrophils",
+    "value": "87",
+    "ref": "55 - 70 %"
+  },
+  {
+    "label": "Lymphocytes",
+    "value": "08",
+    "ref": "20 - 40 %"
+  },
+  {
+    "label": "Eosinophils",
+    "value": "03",
+    "ref": "01 - 06 %"
+  },
+  {
+    "label": "Monocytes",
+    "value": "02",
+    "ref": "02 - 08 %"
+  },
+  {
+    "label": "Basophils",
+    "value": "00",
+    "ref": "00 - 01 %"
+  },
+  {
+    "label": "Neutrophils",
+    "value": "5220",
+    "ref": "2000 - 7000 /µL"
+  },
+  {
+    "label": "Lymphocytes",
+    "value": "480",
+    "ref": "800 - 4000 /µL"
+  },
+  {
+    "label": "Eosinophils",
+    "value": "180",
+    "ref": "20 - 500 /µL"
+  },
+  {
+    "label": "Monocytes",
+    "value": "120",
+    "ref": "120 - 1200 /µL"
+  },
+  {
+    "label": "Platelet Count",
+    "value": "1,75,000",
+    "ref": "1.5 - 4.0 Lac/cmm."
+  },
+  {
+    "label": "Platelet In Smear",
+    "value": "ADEQUATE",
+    "ref": null
+  },
+  {
+    "label": "PARASITES",
+    "value": "M.P. NOT DETECTED",
+    "ref": null
+  }
+]
