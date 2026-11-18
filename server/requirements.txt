@@ -1,0 +1,32 @@
+# Web Framework
+fastapi
+uvicorn[standard]
+python-multipart  # for file uploads
+
+# LangChain & Ecosystem
+langchain
+langchain-community
+langchain-core
+langchain-google-genai
+langchain-text-splitters
+
+# Vectorstore (choose via VECTOR_STORE=chroma|faiss|pinecone)
+chromadb
+faiss-cpu
+pinecone
+
+# PDF Parsing
+pdfplumber
+pypdf  # backend for PyPDFLoader via langchain_community
+
+# Environment Variables
+python-dotenv
+
+# Typing & Utilities
+pydantic
+requests
+reportlab
+tqdm
+
+# Logging (optional but recommended)
+loguru

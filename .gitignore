@@ -1,0 +1,30 @@
+# Environments & Secrets
+.venv
+.venv/
+.env
+.env.*
+*.env
+**/.env
+**/.env.*
+!.env.example
+!**/.env.example
+
+# Python bytecode & cache
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+*.log
+
+# Project-specific private/transient data
+DECISIONS.md
+Report.pdf
+scratch/
+tests/fixtures_original/
+server/local_vectorstore/
+server/parsed_reports/
+server/uploaded_docs/
+
+# OS artifacts
+.DS_Store
+Thumbs.db
